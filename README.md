@@ -42,5 +42,46 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 Example Image:
 ![proje resmi](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png
 )
+******
+******
+#
+# DENEME (Heading 1)
+## Alt Baslık(Heading 2)
+### Alt Baslık(Heading 3)
+[Google'a gitmek için tıklayın :)](http://google.com)
+
+![Lorem Picsum Gorsel](https://picsum.photos/200/300)
+
+
+********
+--------
+
+```
+print("hello world!")
+```
+```python
+print("hello world!")
+```
+```javascript
+console.log("hello world!")
+
+function helloWorld(){
+    console.log("hello world!")
+}
+```
+**************
+**TABLO OLUŞTURMA**
+| Ürünlerin Numaraları| Ürün Açıklaması| Ürünlerin Fiyatı|
+| :--- | :---: | ---: |
+| No | Açıklama | Fiyatı |
+| 1 | Elma | 10₺|
+| 2 | Portakal | 8₺ |
+||
+
+
 *******
+[Kodluyoruz Sayfamız](https://www.kodluyoruz.org/)
+***************
+![Kodluyoruz Logo](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
+****
 
