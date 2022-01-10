@@ -49,9 +49,18 @@ Example Image:
 ## Alt Baslık(Heading 2)
 ### Alt Baslık(Heading 3)
 [Google'a gitmek için tıklayın :)](http://google.com)
+*****
 
-![Lorem Picsum Gorsel](https://picsum.photos/200/300)
-
+|**IMAGE-1**| **IMAGE-2** | **IMAGE-3** |
+| :--- | :---: | ---: |
+| ![Lorem Picsum Gorsel](https://picsum.photos/360/300) | ![Lorem Picsum Gorsel](https://picsum.photos/260/200) | ![Lorem Picsum Gorsel](https://picsum.photos/160/300) |
+||
+*****
+![Lorem Picsum Gorsel](https://picsum.photos/350/300)
+![Lorem Picsum Gorsel](https://picsum.photos/250/200) 
+![Lorem Picsum Gorsel](https://picsum.photos/150/300) 
+*****
+![Lorem Picsum Gorsel](https://picsum.photos/300/300) ![Lorem Picsum Gorsel](https://picsum.photos/200/200) ![Lorem Picsum Gorsel](https://picsum.photos/100/300) 
 
 ********
 --------
