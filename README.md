@@ -1,6 +1,9 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo 
 > Havva Nur ERDEM
+>> [LinkedIn](https://www.linkedin.com/in/havva-nur-erdem-969726202/)
+
+
 
 *****
 # Kodluyoruz Ilk Repo
